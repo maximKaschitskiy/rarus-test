@@ -25,7 +25,7 @@ const Input = () => {
     dispatch(setInput(event.target.value))
   }
 
-  const handleClick: () => void = () => {
+  const handleClick = () => {
     if (ui.input !== '' && !/^\s*$/.test(ui.input)) {
       dispatch(setInput(''))
       const message: ChatMessageType = {

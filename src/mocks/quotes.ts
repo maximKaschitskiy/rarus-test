@@ -1,4 +1,6 @@
-export const quotes = [
+import { ChatMessageType } from "../types"
+
+export const quotes: ChatMessageType['content'][] = [
       "I'm not interested in becoming the next big Hollywood star. I'm just a working-class bloke from London who happened to be in the right place at the right time.",
       "I love doing my own stunts. It's what sets me apart from other actors, and it's a lot of fun.",
       "People underestimate me because of my accent or the roles I play, but I have a lot more to offer as an actor than just action sequences.",
