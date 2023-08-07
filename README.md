@@ -5,7 +5,11 @@ This repository contains a test task app for the "Rarus Health" company.
 
 ## Description
 Objective: Chat application with interlocutor emulating.
+
+
 Link to layout reference: [Dribble](https://dribbble.com/shots/4611750-Material-design-chat-app)
+
+
 There is app is a React application, witch emulate API post requests.
 
 ## Technologies
