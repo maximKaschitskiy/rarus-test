@@ -8,6 +8,7 @@ This repository contains a test task app for the "Rarus Health" company.
 ## Description
 Objective: Chat application with interlocutor emulating.
 
+![Screenshot 2023-08-10 140411](https://github.com/maximKaschitskiy/rarus-test/assets/67905360/ad5d9178-c1e9-4f39-bd77-cdfee44c08b2)
 
 Link to layout reference: [Dribble](https://dribbble.com/shots/4611750-Material-design-chat-app)
 
